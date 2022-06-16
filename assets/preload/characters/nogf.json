@@ -202,10 +202,10 @@
 	"no_antialiasing": false,
 	"image": "characters/BOYFRIEND",
 	"position": [
-		-390,
-		420
+		0,
+		350
 	],
-	"healthicon": "bf",
+	"healthicon": "missingno",
 	"flip_x": true,
 	"healthbar_colors": [
 		49,
@@ -213,8 +213,8 @@
 		209
 	],
 	"camera_position": [
-		-110,
-		-130
+		0,
+		0
 	],
 	"sing_duration": 4,
 	"scale": 1

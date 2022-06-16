@@ -123,17 +123,17 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Hypno Girlfriend",
+	"image": "characters/BHypno Girlfriend",
 	"position": [
 		520,
 		-20
 	],
-	"healthicon": "gf",
+	"healthicon": "bgf",
 	"flip_x": true,
 	"healthbar_colors": [
-		165,
+		128,
 		0,
-		77
+		128
 	],
 	"camera_position": [
 		-60,
